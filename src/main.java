@@ -5,7 +5,9 @@ public class main {
 		// TODO Auto-generated method stub
 
 		
+		System.out.print("Clase 11: Bienvenidos");
 		
+		String nombre = "Chris";
 		
 	}
 
