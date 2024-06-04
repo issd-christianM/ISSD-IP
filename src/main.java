@@ -9,6 +9,8 @@ public class main {
 		
 		String nombre = "Chris";
 		
+		System.out.print(nombre);
+		
 	}
 
 }
